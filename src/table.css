@@ -1,0 +1,24 @@
+.table{
+    width: 60%;
+    /* display: flex; */
+    /* align-items: center; */
+    padding-left:35%;
+    padding-top: 2%;
+    margin: none;
+    justify-content: space-around;
+}
+
+tbody{
+    width: 100%;
+    border: 1px solid black;
+}
+tr{
+    width: 100%;
+}
+th{
+    padding-left: 20px;
+
+}
+td{
+    padding-left: 20px;
+}

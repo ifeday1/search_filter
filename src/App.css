@@ -2,6 +2,9 @@
   margin: 50px;
   text-align: center;
 }
+body{
+  background-color: beige;
+}
 .search{
   padding: 20px;
   font-size: 20px;
